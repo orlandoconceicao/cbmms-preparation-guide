@@ -1,10 +1,10 @@
-# CBMMS Study Guide
+# CBMMS Preparation Guide
 
 **Guia de preparação para o concurso de Soldado do CBMMS, com resumo do edital, conteúdo programático, plano de estudos, acompanhamento de desempenho e preparação para o TAF.**
 
 ## Sobre o projeto
 
-O CBMMS Study Guide centraliza informações e ferramentas para a preparação antecipada de um futuro concurso de Soldado do Corpo de Bombeiros Militar de Mato Grosso do Sul.
+O CBMMS Preparation Guide centraliza informações e ferramentas para a preparação antecipada de um futuro concurso de Soldado do Corpo de Bombeiros Militar de Mato Grosso do Sul.
 
 O conteúdo utiliza principalmente o concurso de 2022 como referência. Esse concurso está concluído, e requisitos, etapas, matérias e demais regras podem mudar quando um novo edital for publicado.
 
