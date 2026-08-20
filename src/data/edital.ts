@@ -1,0 +1,4 @@
+export const stages=['Prova objetiva','Exame de aptidão mental / psicotécnico','Exame de saúde','Exame de capacidade física — TAF','Investigação social','Matrícula','Curso de Formação'];
+export const studyWeek=[['Segunda','Português','Química'],['Terça','Raciocínio Lógico','Física'],['Quarta','Legislação CBMMS','História e Geografia de MS'],['Quinta','Português','Direito'],['Sexta','Raciocínio Lógico','Informática'],['Sábado','Revisão','Questões e prova anterior'],['Domingo','Descanso','Revisão leve opcional']];
+export const distribution=['Português','Raciocínio Lógico','Química','Física','Informática','Noções de Direito','História e Geografia de Mato Grosso do Sul','Legislação Específica do CBMMS'];
+export const officialUrl='https://www2.concursos.ms.gov.br/index.php?concurso=124&location=editais_complemento';
